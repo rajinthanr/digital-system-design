@@ -4,3 +4,17 @@ simulation/
 output_files/
 Adder32/
 *.bak
+
+# Quartus build output
+db/
+incremental_db/
+output_files/
+*.qws
+*.rpt
+*.summary
+*.pof
+*.sof
+*.map
+*.orig
+*.bak
+.vscode/
